@@ -8,4 +8,4 @@ Zabraniam publikowania tego skryptu jako swojego. Zastanów się czy dobrze byś
 
 ![Zdjecie](https://i.imgur.com/o6htq8B.png)
 
-Zmiana Seta od [tego pana](https://www.youtube.com/channel/UCmMJ6qEwMI8Nn1TwHjsOUsw)
+Zmiana Seta zainspirowana od [tego pana](https://www.youtube.com/channel/UCmMJ6qEwMI8Nn1TwHjsOUsw)
