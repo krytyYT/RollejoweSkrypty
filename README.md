@@ -1,4 +1,7 @@
 # RollejoweSkrypty
+
+![GitHub All Releases](https://img.shields.io/github/downloads/krytyYT/RollejoweSkrypty/total)
+
 Skrypt który ułatwia ci grę!
 
 Zabraniam publikowania tego skryptu jako swojego. Zastanów się czy dobrze byś się czuł gdyby ktoś ci ukradł skrypt i wstawił jako swój.
